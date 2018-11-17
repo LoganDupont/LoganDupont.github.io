@@ -1,0 +1,19 @@
+.social-media-icons{
+    margin: 0.15rem !important;
+    background-color: white !important;
+}
+
+.social-media{
+    padding-top: 8px;
+}
+
+.social-media-icons i{
+    color: #263238;
+    font-size: 1.4rem
+}
+
+.social-media-icons:hover{
+    margin: 0.15rem !important;
+    background-color: white !important;
+    opacity: .8 !important;
+}

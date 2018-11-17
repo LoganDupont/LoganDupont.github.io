@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+    background-color: #263238;
+    padding: 8px;
+    color: white;  
+}
+
+.copyright-text{
+    font-size: 12px;
+    margin: 0;
+    opacity: .54;
+}
+
+.copyright-div{
+    margin: 8px;
+    font-weight: normal;
+}
